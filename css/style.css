@@ -1,0 +1,47 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+.logo {
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+nav {
+    width: 73%;
+    padding: 1%;
+}
+ul {
+    width: 50%;
+    margin-left: auto;
+    padding: 2%;
+}
+li {
+    padding: 2%;
+}
+.heroImg {
+    height: 200px;
+    padding: 25px;
+    width: 200px;
+}
+.content {
+    width: 500px;
+    margin: 0 auto;
+    display: inline-block;
+}
+footer {
+    background-color: #373738;
+}
+footer [ul] {
+    display: inline-block;
+    vertical-align: top;
+}
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+}
